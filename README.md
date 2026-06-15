@@ -1,6 +1,8 @@
 # Azure---204
 Azure 204 Certification 
 Developing Solutions for Microsoft Azure
+
+
 Day 1- Azure Compute Services
 Topic: Virtual Machines and App Services
 Virtual Machines (VMs)
