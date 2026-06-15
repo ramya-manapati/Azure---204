@@ -130,11 +130,5 @@ Topic: Revision and Practice
 •Complete practice exams to assess readiness
 •Focus on exam format, time management, and frequently tested scenarios
 
-Study Tips for Success
-•Hands-On Practice: Use Azure free tier or trial account to build resources
-•Microsoft Documentation: Read official Azure documentation for detailed information
-•Practice Tests: Complete multiple full-length practice exams before the real exam
-•Time Management: Allocate adequate time for each topic based on complexity
-•Review Code: Write code snippets to understand service interactions
 •Connect Concepts: Understand how different services work together in solutions
 •Track Progress: Keep notes on difficult concepts and revisit them regularly
